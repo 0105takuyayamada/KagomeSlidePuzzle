@@ -7,11 +7,13 @@
 
 必要なアセット
 - DoTween
+- 
 あるといいアセット
 - Easy Save 3 (PlayerPrefs で代用できるコードも書いてあるので、Easy Save 3 が無ければ置き換えてください)
 
 大部分の画像と音楽は省いています。
 お好きな画像と音楽を入れて楽しんでください。
+
 おススメのサイト
 - http://bg-patterns.com/
 - https://dova-s.jp/
@@ -26,11 +28,13 @@ You can also arrange the blocks freely to create your own slide puzzle.
 
 Required assets
 - DoTween
+
 Assets that are better to put in
 - Easy Save 3 (There is also code that can be substituted with PlayerPrefs. If you don't have Easy Save 3, replace the code)
 
 Most images and music are omitted.
 Please enjoy yourself by adding images and music.
+
 Recommended site
 - http://bg-patterns.com/
 - https://dova-s.jp/
