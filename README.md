@@ -4,13 +4,14 @@
 
 https://unityroom.com/games/kagomeslidepazzle
 
+
 一番大きいブロックを右下まで運べば成功です。
 最短229手で解けます。
 ブロックを自由に並べて、オリジナルのスライドパズルを作る事もできます。
 
 必要なアセット
 - DoTween
-- 
+
 あるといいアセット
 - Easy Save 3 (PlayerPrefs で代用できるコードも書いてあるので、Easy Save 3 が無ければ置き換えてください)
 
@@ -30,6 +31,7 @@ This is a 5x5 slide puzzle.
 I made it for an event called "Unity 1 Week".
 
 https://unityroom.com/games/kagomeslidepazzle
+
 
 The purpose of this puzzle is to carry a 2x2 block to the bottom right.
 This puzzle can be solved with a minimum of 229 turns.
